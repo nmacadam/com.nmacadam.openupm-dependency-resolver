@@ -1,0 +1,15 @@
+{
+  "name": "com.nmacadam.openupm-dependency-resolver",
+  "version": "1.0.0",
+  "displayName": "OpenUPM Dependency Resolver",
+  "description": "This package adds support for resolving packages hosted on OpenUPM as package dependencies.",
+  "license": " MIT",
+  "keywords": [
+    "OpenUPM",
+    "Dependency"
+  ],
+  "author": {
+    "name": "Nathan MacAdam",
+    "url": "https://github.com/nmacadam"
+  }
+}
